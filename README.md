@@ -29,7 +29,7 @@ L’utilisateur peut ainsi retrouver son score à chaque exécution.
 Vous pouvez compiler le projet avec GCC :
 
 ```bash
-gcc -o arithmetique tp_langage_c_daoud.c
+gcc -o arithmetique tp_langage_c.c
 ```
 
 ### ▶️ Exécution
